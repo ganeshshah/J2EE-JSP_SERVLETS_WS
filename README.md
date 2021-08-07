@@ -3,7 +3,7 @@
 ### Topics ###
 
 - [ JSP ](docs/jsp.md)
-- SERVLETS
+- [ SERVLETS ](docs/servlet.md)
 - JSF
 - WEBSERVICES
 - RESTful web service with JAX-RS 2.0 API
