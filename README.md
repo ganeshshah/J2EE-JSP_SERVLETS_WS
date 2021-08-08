@@ -2,7 +2,7 @@
 
 ### Topics ###
 
-- [ JSP ](docs/jsp.md)
+- [ JSP ](docs/jsp/jsp.md)
 - [ SERVLETS ](docs/servlet.md)
 - JSF
 - WEBSERVICES
