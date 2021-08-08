@@ -186,5 +186,5 @@ ${fn:escapeXml(summary)}
 </c:if>
 ``` 
 # More references for JSTL
-- [ Oracle DOcumentation for JSTL ](https://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/)
+- [ Oracle DOcumentation for JSTL ](https://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/){:target="_blank"}
 
